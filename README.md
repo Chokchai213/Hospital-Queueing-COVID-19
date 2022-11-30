@@ -1,5 +1,5 @@
 # Hospital-Queueing-COVID-19
-Hospital Queueing Program written in C++ as a student project, In this program you can add your Name Surname and Age in queue of preset Hospital based in Thailand, And this program shall provide log file in ".txt" in your name and surname according to your hispital of choosing.
+Hospital Queueing Program written in C++ as a student project, In this program you can add your Name Surname and Age in queue of preset Hospital based in Thailand, And this program shall provide log file in ".txt" in your name and surname according to your hospital of your choosing.
 
 # Features
 - This program take input from user to logging your queue in presets hospital which all are based in Thailand
